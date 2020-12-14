@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxJar", "TaxJar.csproj", "{ABF0E4CB-AC56-450E-92EA-619CEBCF754E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "..\XUnitTest\XUnitTest.csproj", "{96523F3A-460E-471D-9F95-E8A5FDBA3CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF0E4CB-AC56-450E-92EA-619CEBCF754E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF0E4CB-AC56-450E-92EA-619CEBCF754E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF0E4CB-AC56-450E-92EA-619CEBCF754E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF0E4CB-AC56-450E-92EA-619CEBCF754E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96523F3A-460E-471D-9F95-E8A5FDBA3CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96523F3A-460E-471D-9F95-E8A5FDBA3CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96523F3A-460E-471D-9F95-E8A5FDBA3CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96523F3A-460E-471D-9F95-E8A5FDBA3CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2668DF79-02AC-44FF-9E40-05DA690105B7}
+	EndGlobalSection
+EndGlobal
